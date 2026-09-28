@@ -1,5 +1,7 @@
 # ZhuaTech VoiceNote｜知华科技智能语音笔记系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech VoiceNote 是上海如静知华信息科技有限公司推出的智能语音笔记社区源码项目，将录音整理为带时间轴的逐字稿、主题摘要和可跟踪行动事项，适合项目周会、客户访谈、现场巡检和个人灵感记录。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.voicenote` · API `POST /api/voicenotes/process`
